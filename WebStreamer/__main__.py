@@ -79,4 +79,4 @@ if __name__ == "__main__":
     finally:
         loop.run_until_complete(cleanup())
         loop.stop()
-        print("------------------------ Stopped Services ------------------------")
+        print("------------------------ Stopped Services BECAUSE dino exhuasted------------------------")
